@@ -5,7 +5,7 @@
 
 ## I'm a Designer, Developer, Music lover!!
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first book.
+- 🔭 I’m currently working on my Improving my skills.
 - 🌱 I’m currently learning React.js and UX Design.
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
