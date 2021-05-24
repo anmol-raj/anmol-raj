@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: he/Him
-- ⚡ Fun fact: I speak 4 languages ( English, Hindi, German, French)
+<!-- - ⚡ Fun fact: I speak 4 languages ( English, Hindi, German, French) -->
 
 
 ### Talk with me, I am kinda awesome:
