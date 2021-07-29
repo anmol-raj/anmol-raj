@@ -60,6 +60,8 @@
 [linkedin]: https://www.linkedin.com/in/anmolrajdesign
 [codepen]: https://codepen.io/anmolraj
 [twitter]: https://twitter.com/anmol.design
+[portfolio]: https://anmolraj.com/
+
 
 
 
