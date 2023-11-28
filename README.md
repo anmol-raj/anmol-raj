@@ -54,7 +54,7 @@
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 [youtube]:#
-[website]: https://anmolraj.com/
+[website]: https://anmol-portfolio.onrender.com
 [instagram]: https://www.instagram.com/anmol.design/
 [linkedin]: https://www.linkedin.com/in/anmolrajdesign
 [codepen]: https://codepen.io/anmolraj
