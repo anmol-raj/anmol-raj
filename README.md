@@ -55,11 +55,11 @@
 <!-- update these accordingly -->
 [youtube]:#
 [website]: https://anmol-portfolio.onrender.com
-[instagram]: https://www.instagram.com/anmol.design/
-[linkedin]: https://www.linkedin.com/in/anmolrajdesign
+[instagram]: https://www.instagram.com/anmol.design
+[linkedin]: https://www.linkedin.com/in/anmolrajx
 [codepen]: https://codepen.io/anmolraj
 [twitter]: https://twitter.com/anmol.design
-[portfolio]: https://anmol-raj.github.io/anmol-raj-portfolio/
+[portfolio]: https://anmol-raj.github.io/anmol-raj-portfolio
 
 
 
