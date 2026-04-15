@@ -5,10 +5,10 @@
 
 ## I'm a Designer, Developer, Music lover!!
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my Improving my skills.
-- 🌱 I’m currently learning React.js and UX Design.
+- 🔭 I’m currently working on my skills.
+- 🌱 I’m currently learning Rust and UX Design.
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
+- 💬 Ask me about ...Anything
 - 😄 Pronouns: he/Him
 <!-- - ⚡ Fun fact: I speak 4 languages ( English, Hindi, German, French) -->
 
